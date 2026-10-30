@@ -1,0 +1,19 @@
+name;class;team;hp;attack;defense;speed;mana
+# Heroes: they always all fight
+Arthur;WARRIOR;HEROES;120;24;10;5;0
+Lancelot;WARRIOR;HEROES;110;22;12;4;0
+Merlin;MAGE;HEROES;70;18;3;7;60
+Elena;HEALER;HEROES;85;10;5;6;0
+# Monsters: a pool from which 4 are drawn at random for each battle
+Grimskull;SKELETON;MONSTERS;150;28;8;2;0
+Bones;SKELETON;MONSTERS;90;22;6;3;0
+Morgana;MAGE;MONSTERS;75;22;4;6;40
+Zog;HEALER;MONSTERS;70;11;4;5;0
+Gruk;ORC;MONSTERS;130;24;8;4;0
+Ugnak;ORC;MONSTERS;115;26;6;5;0
+Vlad;VAMPIRE;MONSTERS;95;23;6;7;0
+Fenrir;WEREWOLF;MONSTERS;110;22;7;9;0
+Snik;GOBLIN;MONSTERS;55;18;3;10;0
+Grizzle;GOBLIN;MONSTERS;60;17;4;9;0
+Arachna;GIANT_SPIDER;MONSTERS;85;16;5;7;0
+Sandmaw;SANDWORM;MONSTERS;160;20;10;1;0
